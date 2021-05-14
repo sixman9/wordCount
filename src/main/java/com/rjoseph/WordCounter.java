@@ -9,9 +9,6 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.regex.Pattern;
 
-/**
- * Hello world!
- */
 public class WordCounter {
 	private final static String WORD_REGEX = "[\\^\\s,.!?:;]+";
 
